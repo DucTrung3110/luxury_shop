@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 300" width="400" height="300">
+  <rect width="400" height="300" fill="#f8f9fa"/>
+  <path d="M80 120 Q80 80 120 80 L280 80 Q320 80 320 120 L320 220 Q320 240 300 240 L100 240 Q80 240 80 220 Z" fill="#2c3e50"/>
+  <path d="M120 80 Q120 60 140 60 L260 60 Q280 60 280 80" fill="none" stroke="#2c3e50" stroke-width="8"/>
+  <rect x="150" y="130" width="100" height="40" fill="#d4af37"/>
+  <text x="200" y="155" text-anchor="middle" fill="#2c3e50" font-family="serif" font-size="14">LUXURY</text>
+  <circle cx="140" cy="200" r="8" fill="#d4af37"/>
+  <circle cx="260" cy="200" r="8" fill="#d4af37"/>
+</svg>
